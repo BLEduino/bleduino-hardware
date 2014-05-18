@@ -1,5 +1,5 @@
 G75*
-G70*
+%MOIN*%
 %OFA0B0*%
 %FSLAX24Y24*%
 %IPPOS*%
